@@ -3,6 +3,10 @@
 
 ### Servidor HTTP(S) para testes.
 
+Funciona como servidor HTTP ou HTTPS. Apenas para testes dos requests GET e POST.
+
+Mostra no console da maquina onde é iniciado, e na página retornada, os parametros recebidos pelo servidor. 
+
 USO: `python test_HTTPserver.py`
 
 Parametros:
